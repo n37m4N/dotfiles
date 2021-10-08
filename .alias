@@ -1,0 +1,9 @@
+alias l='ls -CF --color=auto'
+alias l.='ls -d --color=auto'
+alias ll='ls -la --color=auto'
+alias la='ls -A --color=auto'
+#Git
+alias gad='git add'
+alias status='git status'
+alias up='git commit -m'
+alias glog= 'git log --pretty=format:"%h - %an, %ar :%s" --stat --graph'
